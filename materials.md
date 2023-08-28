@@ -12,7 +12,7 @@ Here you'll find an overview of the course — the material I expect we'll cover
 
 ## Logistics
 
-* Course Website : [https://rob-p.github.io/CMSC423_F22/](https://rob-p.github.io/CMSC423_F22/)
+* Course Website : [https://umd-cmc423.github.io/f2023/](https://umd-cmc423.github.io/f2023/)
 * Instructor : Rob Patro
 * Instructor office hours: Thurs. 12:30 - 1:30 PM (or request appointment)
 * Class location: IRB 2207
@@ -65,6 +65,14 @@ While you should have had, in the prerequisites for this course, exposure to the
 ## Course Objectives
 
 The main objective of this course will be to provide an understanding of some of the algorithms, data structures, and methods that underlie _modern_ computational genomics. This course is intended as a broad introduction to bioinformatics and computational biology.  However, this is a huge field, so we will not cover everything, and what we do cover will not all be at the same depth (e.g. we will spend more time discussing indexing than clustering).   Our perspective will be a computational and algorithmic one, though we will take the time to understand the necessary biology and motivation for the problems we discuss. At the end of this course, you should have a good understanding of how new challenges in genomics drive algorithmic innovations and how algorithmic innovations enable new and improved biological analyses.
+
+## Course Resources
+
+The course website is [https://umd-cmc423.github.io/f2023](https://umd-cmc423.github.io/f2023), which is probably where you are reading this right now.
+
+The course has a Piazza page, and you can enroll [here](http:///www.piazza.com/umd/fall2023/cmsc423).  I encourage you to interact with each other, raise questions, and discuss course topics using Piazza.  This is also the best place to raise general questions about material we cover in the course (as opposed to e.g. an e-mail), since other students can see the response and ask follow-up questions.  This helps to reduce redundancy in the answering of questions.
+
+Programming assignments will be assigned and collected [via Gradescope](https://www.gradescope.com/courses/590981)
 
 ## Course  Schedule
 
@@ -130,13 +138,6 @@ The following is a planned schedule of the material we will cover in the course,
 
 - Dec 14 : Final Exam (8:00-10:00am) **Note: University assigned time different than class time**
 
-## Course Resources
-
-The course website is [https://rob-p.github.io/CMSC423_F22/](https://rob-p.github.io/CMSC423_F22/), which is probably where you are reading this right now.
-
-The course has a Piazza page, and you can enroll [here](http:///www.piazza.com/umd/fall2022/cmsc423).  I encourage you to interact with each other, raise questions, and discuss course topics using Piazza.  This is also the best place to raise general questions about material we cover in the course (as opposed to e.g. an e-mail), since other students can see the response and ask follow-up questions.  This helps to reduce redundancy in the answering of questions.
-
-Assignments will be posted and collected [via ELMS](https://umd.instructure.com/courses/1328523).
 
 ## Course Policies
 
