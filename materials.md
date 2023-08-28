@@ -78,65 +78,67 @@ Programming assignments will be assigned and collected [via Gradescope](https://
 
 The following is a planned schedule of the material we will cover in the course, as well as when we will cover it.  The mapping between content and dates below _is subject to change_ depending on how quickly we move.  The current schedule is  optimistic, and I would like to cover all of this material.  However, it's much more important that the class understand the material we cover than that we get to all of the topics I'd like to discuss.  Thus, the time we spend on certain topics and the precise list of topics we cover is subject to change throughout the semester depending on our pace. 
 
-- Week of Aug 29.
+- Week of Aug 28.
   - Course introduction, logistics & goals
   - Overview of bioinformatics, basic biology & biotechnology
 
-- Week of Sept 5.
+- Week of Sept 4.
+  - **Note**: No class Sept 3. (Rob attending [WABI2023](https://acm-bcb.org/WABI/2023/))
   - Exact string matching
   - KMP & Z algorithms
  
-- Week of Sept 12.
+- Week of Sept 11.
+  - Exact string matching continued (semi-numeric matching)
   - Text indexing for rapid search (overview & Suffix Trie)
-  - **Note**: September 12 : Last day to drop without a `W`
+  - **Note**: September 11 : Last day to drop without a `W`
 
-- Week of Sept 19. 
+- Week of Sept 18. 
   - Suffix Arrays
   - BWT and FM-index
   
-- Week of Sept 26.
+- Week of Sept 25.
   - more BWT and FM-index
   - Midterm 1 (in class)
   
-- Week of Oct 3.
+- Week of Oct 2.
   - Varaints of FM-index / advanced full-text indexing
   - Sequence alignment & dynamic programming
 
-- Week of Oct 10.
+- Week of Oct 9.
   - Sequence alignment continued (local and semi-local variants)
   - Sequence alignment continued, linear space & bounded edit distance
   
-- Week of Oct 17.
+- Week of Oct 16.
   - Seeding / chaining and read alignment
   
-- Week of Oct 24.
+- Week of Oct 23.
   - Spliced alignment & RNA sequencing
   - Estimating transcript expression
 
-- Week of Oct 31.
+- Week of Oct 30.
   - More estimation of transcript expression
   
-- Week of Nov 7.
+- Week of Nov 6.
   - Midterm 2 (in class)
  
-- Week of Nov 14.
+- Week of Nov 13.
   - Genome sequencing and assembly
   - The de Bruijn graph and compacted de Bruijn graph
   
-- Week of Nov 21.
+- Week of Nov 20.
   - Other uses of the de Bruijn graph
   - Thurs. Nov 24 : No class (Thanksgiving)
 
-- Week of Nov 28.
+- Week of Nov 27.
   - Phylogenomics parsimony / maximum likelihood
   
-- Dec 5.
+- Dec 4.
   - Current problems & research topics in computational biology
 
-- Dec 12.
+- Dec 11.
   - Wrap-up/review
 
-- Dec 14 : Final Exam (8:00-10:00am) **Note: University assigned time different than class time**
+- Dec 13 : Final Exam (8:00-10:00am) **Note: University assigned time different than class time**
 
 
 ## Course Policies
