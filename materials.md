@@ -14,29 +14,22 @@ Here you'll find an overview of the course — the material I expect we'll cover
 
 * Course Website : [https://rob-p.github.io/CMSC423_F22/](https://rob-p.github.io/CMSC423_F22/)
 * Instructor : Rob Patro
-* Instructor office hours: Wed. 10-11AM (and by appointment)
-* Class location: IRB 0318
+* Instructor office hours: Thurs. 12:30 - 1:30 PM (or request appointment)
+* Class location: IRB 2207
 * Class days/time: Tuesdays/Thursdays 11:00 AM — 12:15 PM
-* TAs : 
-  - Zahra Zare Jousheghani (zzare@terpmail.umd.edu)
-    - Office hours: Thurs. 12:30PM - 1:30 PM in AVW 4140
+* TA : 
+  - Fenfei Guo (fguo1@umd.edu)
+    - Office hours: TBD in AVW 4140
 
-* **Masking policy** : As of the start of the semester, the official University policy is that masks are optional, but _strongly encouraged_, in the classroom. Given the low cost and comparatively high benefits of masking, I, too, would strongly encourage you to mask-up when in the classroom. There are several good reasons to do this. First, there are likely fellow students in this class (and your other classes) who are immunocompromised, or who live with an immunocompromised person.  While the _immediate_ impact of COVID on a young, healthy, vaccinated person is likely to be mild, this is not true for everyone in our community. Wearing a mask in the classroom setting is a sign of respect for your fellow students. Second, there is growing evidence that the _long term_ effects of COVID infection, even in young, healthy (and even multiply vaccinated) people can be quite serious. See for example these recent pieces on long COVID from "The Lancet" and its daughter journals:
-  * [Long COVID: which symptoms can be attributed to SARS-CoV-2 infection?](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01385-X/fulltext)
-  * [Persistence of somatic symptoms after COVID-19 in the Netherlands: an observational cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01214-4/fulltext)
-  * [A glimpse into long COVID and symptoms](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(22)00217-X/fulltext)
-
-If the University policy undergoes substantial change during the semester, I will update this webpage accordingly.
-
-* **Other COVID-related information** : More specific health information appears below in this syllabus.  However, the following bears repeating; please use both _common sense_ and the _precautionary principle_ in determining if you should get tested or attend a specific lecture in person. Our goal this semester is to maintain in-person instruction.  In addition to following recommended best-practices with respect to vaccination and masking, retaining in-person instruction and avoiding serious outbreaks will require the consistent vigilance of all of those in our University community.  If you are feeling at all symptomatic, or if you have been in "contact" with someone who has tested positive for SARS-CoV-2 (regardless of whether or not they are symptomatic), please _do not attend_ this class or any other class until you have tested negative.  Only with our collective effort and continued vigilance will we have an opportunity at a successful _in person_ semester.
+* **COVID-related information** : More specific health information appears below in this syllabus.  However, the following bears repeating; please use both _common sense_ and the _precautionary principle_ in determining if you should get tested or attend a specific lecture in person. If you are feeling at all symptomatic, or if you have been in "contact" with someone who has tested positive for SARS-CoV-2 (regardless of whether or not they are symptomatic), please _do not attend_ this class or any other class until you have tested negative. 
 
 ## Course Content
 
 **Links**: 
 
  * In general, _this website_ is the place to look for course content and course news.  Any content that is private / restricted (e.g. grades) will be made available on the ELMS page for this course.
- * Assignment announcements and deadlines will be posted on the [ELMS page for this course](https://umd.instructure.com/courses/1328523), and grading information will be made available there.
- * The course also has a Piazza page for discussions.  The Piazza page will be used actively this semester, and is the most relevant location for asking and finding answers for questions related to specific course content, including the projects and exams. Please register for this course on Piazza [here](http:///www.piazza.com/umd/fall2022/cmsc423).
+ * Assignment announcements and deadlines will be posted on the [ELMS page for this course](https://umd.instructure.com/courses/1350043), and grading information will be made available there.
+ * The course also has a Piazza page for discussions.  The Piazza page will be used actively this semester, and is the most relevant location for asking and finding answers for questions related to specific course content, including the projects and exams. Please register for this course on Piazza [here](https://piazza.com/umd/fall2023/cmsc423).
 
 **Textbook(s)**: Based on previous feedback in the course, there is no required textbook for the class. Resources, where relevant, will be provided via links on the course website accompanying the slides or lecture notes. However, this is an _upper-level_ course, and you should _absolutely_ seek out other sources explaining these topics from different angles, using different notations and examples, etc.  Of course, you should also _absolutely_ reach out to the TA and me if you are having trouble understanding a topic in the course and have been unable to become comfortable with it from the lecture slides and other sources.  Here are some (non-required) textbooks that I personally recommend as references for different topics:
 
