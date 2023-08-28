@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-08-29
+date: 2023-08-28
 title: Sample Lecture
 tldr: "Introduction to the class and some basic bio."
 thumbnail: /static_files/presentations/lec.jpg
