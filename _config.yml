@@ -1,0 +1,52 @@
+# Site settings
+course_name: Introduction to Bioinformatics
+course_description: "Algorithms and Data Structures for Modern Bioinformatcs"
+course_semester: "Fall 2023"
+
+baseurl: "/f2023" # the subpath of your site, e.g. /blog/
+url: "http://umd-cmsc423.github.io/" # the base hostname & protocol for your site
+
+schoolname: "University of Maryland"
+schoolurl: "https://umd.edu"
+#twitter_username: username 
+
+address: |
+    2207
+    Brendan Iribe Center for Computer Science and Engineering
+    University of Maryland, College Park MD 20742
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
