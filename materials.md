@@ -12,7 +12,7 @@ Here you'll find an overview of the course — the material I expect we'll cover
 
 ## Logistics
 
-* Course Website : [https://umd-cmc423.github.io/f2023/](https://umd-cmc423.github.io/f2023/)
+* Course Website : [https://umd-cmsc423.github.io/f2023/](https://umd-cmsc423.github.io/f2023/)
 * Instructor : Rob Patro
 * Instructor office hours: Thurs. 12:30 - 1:30 PM (or request appointment)
 * Class location: IRB 2207
@@ -68,7 +68,7 @@ The main objective of this course will be to provide an understanding of some of
 
 ## Course Resources
 
-The course website is [https://umd-cmc423.github.io/f2023](https://umd-cmc423.github.io/f2023), which is probably where you are reading this right now.
+The course website is [https://umd-cmsc423.github.io/f2023](https://umd-cmsc423.github.io/f2023), which is probably where you are reading this right now.
 
 The course has a Piazza page, and you can enroll [here](http:///www.piazza.com/umd/fall2023/cmsc423).  I encourage you to interact with each other, raise questions, and discuss course topics using Piazza.  This is also the best place to raise general questions about material we cover in the course (as opposed to e.g. an e-mail), since other students can see the response and ask follow-up questions.  This helps to reduce redundancy in the answering of questions.
 
