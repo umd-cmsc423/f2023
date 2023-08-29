@@ -5,6 +5,6 @@ title: Sample Lecture
 tldr: "Introduction to the class and some basic bio."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
-    - url: /static_files/presentations/lec.zip
+    - url: /static_files/presentations/lecture_0.pdf
       name: slides
 ---
