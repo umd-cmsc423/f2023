@@ -1,4 +1,7 @@
 policies:
-  - You have free 8 late days.
-  - You can use late days for assignments. A late day extends the deadline 24 hours.
-  - Once you have used all 8 late days, the penalty is 10% for each additional late day.
+  - The late penalty for assignments is 1% per hour late up to a maximum of 48 hours.
+  - The points are deducted in integer amounts and rounded down (i.e. 59 minutes late is a 0% penalty).
+  - You are allowed 1 "free" late submission (up to 48 hours) over the course of all assignments. 
+  - When you apply your "free" late pass, you will not lose any additional points for late turn in of that assignment.
+  - You must specify that you are using your "free" late pass when you submit your assignment (e-mail both the TA and me).
+  - Your use of the "free" late is a one-time, irrevocable decision (you can't switch which project you apply it to).
