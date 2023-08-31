@@ -65,5 +65,9 @@ Your program should write to `stdout` a JSON format object (string) with the fol
 * `mean_len` - The average length of sequences observed for the records in the input file.
 * `tot_len` - The total length of sequences observed for the records in the input file.
 * `num_records` - The total number of input records observed in the input file.
+* `count_a` - The total number of occurrences of the nucleotide `A` appearing in this file.
+* `count_c` - The total number of occurrences of the nucleotide `C` appearing in this file.
+* `count_g` - The total number of occurrences of the nucleotide `G` appearing in this file.
+* `count_t` - The total number of occurrences of the nucleotide `T` appearing in this file.
 
 This information should be written as a properly-formatted `JSON` object to `stdout`.
