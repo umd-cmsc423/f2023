@@ -19,7 +19,7 @@ Here you'll find an overview of the course — the material I expect we'll cover
 * Class days/time: Tuesdays/Thursdays 11:00 AM — 12:15 PM
 * TA : 
   - Fenfei Guo (fguo1@umd.edu)
-    - Office hours: TBD in AVW 4140
+    - Office hours: Tues. 1:30 - 2:30 PM in AVW 4140
 
 * **COVID-related information** : More specific health information appears below in this syllabus.  However, the following bears repeating; please use both _common sense_ and the _precautionary principle_ in determining if you should get tested or attend a specific lecture in person. If you are feeling at all symptomatic, or if you have been in "contact" with someone who has tested positive for SARS-CoV-2 (regardless of whether or not they are symptomatic), please _do not attend_ this class or any other class until you have tested negative. 
 
