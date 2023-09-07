@@ -16,6 +16,8 @@ due_event:
 **Posted: August 31, 2023**  
 **Last updated: August 29, 2023**  
 
+**Note**: A "skeleton" structure for the project (using Java as the underlying language) has been created [here](https://github.com/umd-cmsc423/F23_A0_sample). It shows how to setup the relevant files, and how e.g. one would use `build.sh` to invoke `javac` to compile the source into a `.class` file and how one would create a script named `fasta_stats` to run the class file.
+
 You will implement a program for parsing a FASTA format file, computing some basic statistics about the records it contains, and printing these statistics to `stdout` in `JSON` format. 
 
 As you develop your proejct, I **highly, highly** recommend that you use [`git`](https://git-scm.com/book/en/v1/Getting-Started) for developing your code. If you use a service such as GitHub for hosting your code, 
