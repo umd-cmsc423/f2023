@@ -1,5 +1,25 @@
 <header class="site-header">
 
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      extensions: [
+        "MathMenu.js",
+        "MathZoom.js",
+        "AssistiveMML.js",
+        "a11y/accessibility-menu.js"
+      ],
+      jax: ["input/TeX", "output/CommonHTML"],
+      TeX: {
+        extensions: [
+          "AMSmath.js",
+          "AMSsymbols.js",
+          "noErrors.js",
+          "noUndefined.js",
+        ]
+      }
+    });
+  </script>
+
   <div class="wrapper" style="z-index: 100;">
       <table><tr>
           <td><img width="75" src="{{ "/_images/umd_logo.jpg" | prepend: site.baseurl }}" valign="middle"></td>
