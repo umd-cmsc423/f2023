@@ -122,7 +122,7 @@ your queries using the "simple accelerant" algorithm we covered in class.
 
 * `output` - the output file of your program. This file should contain the results of your queries in the following format.  Each line should contain a **tab-separated** list containing the following information:
 
-    * `query_name`, `char_cmp_lb`, `char_cmp_ub`, `k`, `hit_1`, `hit_2`, `...`, `hit_k`
+    * `query_name`  `char_cmp_lb` `char_cmp_ub` `k` `hit_1` `hit_2` `...` `hit_k`
 
 Here, the `query_name` is simply the header of the corresponding FASTA entry (the string after the `>` --- **not including the `>`** on the header line).  The `char_cmp_lb` output tracks the number of **character comparisons** you performed during your binary search to find the lower-bound of the result interval (i.e. the first place where the pattern might occur). Likewise, the `char_cmp_ub` output tracks the number of **character comparisons** you performed during your binary search to find the upp-erbound of the result interval (i.e. the first place where the next pattern greater than the query pattern might occur). In general, you should expect `char_cmp_lb` and `char_cmp_ub` to be (substantially) less with the `simpaccel` search than with the `naive` search. The value `k` is the number of occurrences of the query string in the underlying text on which the suffix array is built.  Finally `hit_1` through `hit_k` are the **positions** in the original text (0-indexed) where the query string occurs.  If a query string does not occur in the text, then you should report `k` = 0, and there will be no `hit_1`, ... etc. entries for that query.
 
