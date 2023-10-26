@@ -12,9 +12,9 @@ due_event:
     description: 'Assignment #1 due'
 ---
 
-**Due: Thurs Oct 5, 2023**  
+**Due: Thurs Oct 19, 2023**  
 **Posted: Thurs Oct 19, 2023**  
-**Last updated: Thurs Oct 5, 2023**  
+**Last updated: Thurs Oct 19, 2023**  
 
 
 # Overview
