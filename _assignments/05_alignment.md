@@ -1,9 +1,16 @@
 ---
 type: assignment
-date: 2023-11-14
+date: 2023-11-14T11:59:00+5:00
 title: "Project 5: Pairwise Alignment"
-due: 2023-12-02 11:59:00
 published: true
+#pdf: /static_files/assignments/asg.pdf
+#attachment: /static_files/assignments/asg.zip
+#solutions: /static_files/assignments/asg_solutions.pdf
+#published: true
+due_event: 
+    type: due
+    date: 2023-12-02T11:59:00+5:00
+    description: 'Assignment #4 due'
 ---
 
 
