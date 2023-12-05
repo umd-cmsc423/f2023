@@ -10,7 +10,7 @@ due_event:
 
 # CMSC 423 Project 5 (the picomapper) : Overview
 
-**Note**: The sample data (and project skeleton) for project 5 are available [here](https://github.com/rob-p/CMSC423_F23_A5).
+**Note**: The sample data (and project skeleton) for project 5 are available [here](https://github.com/umd-cmsc423/F23_A5_sample).
 
 This project is a synthesis of the previous projects that you've worked on this semester.  You will put together your capability for exact matching (as performed via either the suffix array or the FM-index) with your ability to perform fitting alignment to build a small proof-of-concept read aligner to align sequencing reads against target genomes.  In addition to the ability to look up exact strings and perform alignment, the main novel part of this project is to implement a seeding and filtering heuristic to decide _where_ you should score reads for alignment.  Specifically, when your seed is highly-specific, and there is only one (or a couple) of potential mapping locations for a read, you can test an alignment at all such locations.  However, if your seed appears in many locations in the genome, then you will generally want to restrict the set of potential mapping locations further by looking up more seeds from the read and filtering out the set of candidate locations that explain all of them.
 
@@ -82,7 +82,7 @@ p-0 1
 157368  -7  12=1I1X1=2X1=1X1=
 ```
 
-This was computed with `m` = 1 and `g` = 3, so the score of a mismatch is -1, the score of a gap is -3, and the score of a match is 0.  For details about the meaning of the **CIGAR** string and how it should be formed, please refer to the specification for [Project 4](https://rob-p.github.io/CMSC423_F23/assignments/04_alignment).
+This was computed with `m` = 1 and `g` = 3, so the score of a mismatch is -1, the score of a gap is -3, and the score of a match is 0.  For details about the meaning of the **CIGAR** string and how it should be formed, please refer to the specification for [the pairwise alignment project](https://umd-cmsc423.github.io/f2023/assignments/05_alignment).
 
 ### Finding potential matching loci with seeding
 
