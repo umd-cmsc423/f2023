@@ -6,4 +6,5 @@ tldr: "That's all folks"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     - url: /static_files/presentations/wrapup.pdf
+      name: slides
 ---
